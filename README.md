@@ -1,3 +1,4 @@
+# Titanic survival Prediction Classification:
 Aim of this project to predict whether a given passenger survived or not using machine learning algorithms.
 Key components of this project include:
 Data preprocessing and cleaning. 
