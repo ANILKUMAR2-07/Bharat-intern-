@@ -19,4 +19,13 @@ SMS Spam Classification is a project aimed at tackling the issue of unwanted and
  - Data preprocessing and cleaning.
  - Exploratory Data analysis to gain useful insights and keywords used by spammer
  - Making effective decision making model which having best accuracy prediction rate.
- 
+#  Cat and Dog Image Classifier 🐱🐶
+
+Objective: Develop an image classification model to distinguish between images of cats and dogs using data science techniques in Python.
+
+Key Steps:
+
+- Data Collection:     Utilized Kaggle dataset containing images of cats and dogs.           
+- TensorFlow Implementation:   Implemented TensorFlow for building and training the image classification model.
+- Generators from Keras: Employed Keras generators to efficiently load and preprocess images during training, crucial for handling large datasets.
+- CNN Model Design:    Developed a Convolutional Neural Network (CNN), a specialized architecture for effective image classification tasks.
